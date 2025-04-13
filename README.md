@@ -36,7 +36,7 @@ python3 hello-pybullet.py
 
 Now, an interactive simulation window should pop up, which you can interact with through the GUI. 
 
-Simply closing the simulation window will shutdown the process. 
+Simply closing the simulation window, or pressing `ctrl+c` in the terminal window will shutdown the process. you can also wait for it to timeout. 
 
 
 ### Experimenting with PyBullet
