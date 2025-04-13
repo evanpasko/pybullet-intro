@@ -1,0 +1,17 @@
+[project]
+name = "pybullet-intro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { email = "etpasko@gmail.com" }
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+pybullet-intro = "pybullet_intro:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
